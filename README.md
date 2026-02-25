@@ -1,1 +1,0 @@
-[!dropdx](./banner.png)

@@ -1,1 +1,1 @@
-[!dropdx](../banner.png)
+![dropdx](../banner.png)
